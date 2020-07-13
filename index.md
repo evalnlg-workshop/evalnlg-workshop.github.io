@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Half day workshop at HRI 2020<br />March 23, 2020, Cambridge, UK"
+excerpt: "Workshop at INLG 2020<br /> Dublin Ireland, 15-18 December 2020"
 layout: single
 classes: wide
 header:
