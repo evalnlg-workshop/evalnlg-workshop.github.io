@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "1st Workshop on Evaluating NLG Evaluation"
 title_separator          : "–"
-name                     : "the NLG for HRI Workshop organisers"
+name                     : "the Evaluating NLG Evaluation Workshop organisers"
 description              : "1st Workshop on Evaluating NLG Evaluation at INLG 2020."
 url                      : "http://evalnlg-workshop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : #"The NLG for HRI Workshop organisers"
+  name             : #"The Evaluating NLG Evaluation Workshop organisers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #""
   location         : #"Europe"
