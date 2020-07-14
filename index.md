@@ -19,7 +19,7 @@ This workshop is intended as a **discussion platform on the status and the futur
 
 ### Important Dates:
 
-* Call for workshop papers or abstracts: July 20, 2020
+* Call for papers released: July 20, 2020
 * Submission deadline: September 20, 2020
 * Notification of acceptance: October 20, 2020
 * [INLG 2020 early registration](): tba (tba USD / workshop only)
