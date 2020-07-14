@@ -20,5 +20,5 @@ The 1st Workshop on Evaluating NLG Evaluation is a workshop at the 13th Internat
 * [Dimitra Gkatzia](https://dimitragkatzia.wordpress.com/) (Edinburgh Napier University)
 * [Ioannis Konstas](http://www.ikonstas.net/) (Heriot-Watt University)
 * [Emiel van Miltenburg](https://emielvanmiltenburg.nl/) (Tilburg University)
-* [Sashank Santhanam](https://webpages.uncc.edu/ssantha1/) (University of North Carolina – Charlotte)
-* [Samira Shaikh](https://webpages.uncc.edu/sshaikh2/) (University of North Carolina – Charlotte)
+* [Sashank Santhanam](https://sashank06.github.io) (University of North Carolina at Charlotte)
+* [Samira Shaikh](https://webpages.uncc.edu/sshaikh2/) (University of North Carolina at Charlotte)
