@@ -15,10 +15,10 @@ The 1st Workshop on Evaluating NLG Evaluation is a workshop at the 13th Internat
 ## Organisers
 
 * [Shubham Agarwal](https://shubhamagarwal92.github.io/) (Heriot-Watt University)
-* [Ondrej Dusek]() ()
-* [Sebastian Gehrmann]() ()
+* [Ondrej Dusek](https://tuetschek.github.io/) (Charles University Prague)
+* [Sebastian Gehrmann](https://sebastiangehrmann.com/) (Google AI Language)
 * [Dimitra Gkatzia](https://dimitragkatzia.wordpress.com/) (Edinburgh Napier University)
-* [Ioannis Konstas]() (Heriot-Watt University)
-* [Emiel van Miltenburg]() ()
-* [Sashank Santhanam]() ()
-* [Samira Shaikh]() ()
+* [Ioannis Konstas](http://www.ikonstas.net/) (Heriot-Watt University)
+* [Emiel van Miltenburg](https://emielvanmiltenburg.nl/) (Tilburg University)
+* [Sashank Santhanam](https://webpages.uncc.edu/ssantha1/) (University of North Carolina – Charlotte)
+* [Samira Shaikh](https://webpages.uncc.edu/sshaikh2/) (University of North Carolina – Charlotte)
