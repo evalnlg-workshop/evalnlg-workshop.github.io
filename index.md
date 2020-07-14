@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Workshop at INLG 2020<br /> Held Online from Dublin, Ireland, 15-18 December 2020"
+excerpt: "Workshop at INLG 2020<br /> Online from Dublin, Ireland, 15-18 December 2020"
 layout: single
 classes: wide
 header:
@@ -15,7 +15,7 @@ header:
 
 ### Call for Papers:
 
-The aim of this workshop is to discuss ideas about the *evaluation of NLG systems*. We encourage a range of papers ranging from commentary and meta-evaluation of existing evaluation strategies to the suggestion of new metrics. We specifically place emphasis on the methodology and linguistic aspects of evaluation rather than the proposal of new automatic metrics. We invite papers on any topic related to the evaluation of NLG systems, including (but not limited to):
+The aim of this workshop is to discuss ideas about the **evaluation of NLG systems**. We encourage a range of papers ranging from commentary and meta-evaluation of existing evaluation strategies to the suggestion of new metrics. We specifically place emphasis on the methodology and linguistic aspects of evaluation rather than the proposal of new automatic metrics. We invite papers on any topic related to the evaluation of NLG systems, including (but not limited to):
 * Qualitative studies, definitions of evaluation metrics (e.g., readability, fluency, semantic correctness)
 * Crowdsourcing Strategies, qualitative tests for crowdsourcing (How to elucidate evaluation metrics?)
 * Looking at individual differences and cognitive biases in human evaluation (expert vs. non-expert, L1 vs L2 speakers)
@@ -44,7 +44,7 @@ Datasets for this year’s edition are existing datasets with system outputs and
 * Notification of acceptance: October 20, 2020
 * [INLG 2020 early registration](): tba (tba USD / workshop only)
 * Camera ready papers due: November 20, 2020
-* Workshop: 
+* Workshop: tba, December, 2020 (adjacent to INLG)
 
 
 ### Submission Formats:
