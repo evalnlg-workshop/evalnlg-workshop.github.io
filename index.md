@@ -7,7 +7,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/dublin.jpg
+  overlay_image: /assets/images/dublinbridge.jpg
 ---
 
 **Announcement**: INLG 2020 and its workshops are organized virtually due to the COVID-19 pandemic. More information soon.

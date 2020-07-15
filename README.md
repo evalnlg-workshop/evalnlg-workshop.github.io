@@ -6,3 +6,7 @@ Webpage: http://evalnlg-workshop.github.io/
 ### Credits
 
 Thanks Hendrik and Dimitra for providing the starter code.
+
+Background image take from unsplash:
+
+https://unsplash.com/photos/NCP6XF9XmvA
