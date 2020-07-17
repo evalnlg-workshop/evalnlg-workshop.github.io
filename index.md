@@ -24,7 +24,7 @@ This workshop is intended as a **discussion platform on the status and the futur
 * Notification of acceptance: October 20, 2020
 * [INLG 2020 early registration](): tba (tba USD / workshop only)
 * Camera ready papers due: November 20, 2020
-* Workshop: tba, December, 2020 (adjacent to INLG)
+* Workshop: December 18, 2020 (adjacent to INLG)
 
 ### Papers:
 
