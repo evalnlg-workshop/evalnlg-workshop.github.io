@@ -22,7 +22,7 @@ This workshop is intended as a **discussion platform on the status and the futur
 * Call for papers released: July 20, 2020
 * Submission deadline: September 20, 2020
 * Notification of acceptance: October 20, 2020
-* [INLG 2020 early registration](): tba (tba USD / workshop only)
+* [INLG 2020 registration](https://www.inlg2020.org/registration): TBA
 * Camera ready papers due: November 20, 2020
 * Workshop: December 18, 2020 (adjacent to INLG)
 
@@ -52,16 +52,19 @@ Datasets for this year’s edition are existing datasets with system outputs and
 
 ### Submission Formats:
 
-* Archival papers (up to 8 pages, excluding references)
-* Non-archival abstract of papers within the topic accepted somewhere else or under submission at the main INLG 20 (1-2 pages)
-* Demo papers (1-2 pages)
+* Archival papers (up to 8 pages, excluding references; shorter submissions are also welcome)
+* Non-archival abstract of papers within the topic accepted somewhere else or under submission at the main INLG 2020 (1-2 pages, excluding references)
+* Demo papers (1-2 pages, excluding references)
 
 
 ### Submission instructions:
 
-Position papers should be formatted using the [INLG Template]() and *not* anonymised. 
+The workshop follows [INLG 2020 submission instructions](https://www.inlg2020.org/papers), i.e. all submissions should follow [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines)
+and policies for submission, review and citation, and be anonymised for double blind reviewing.
+The papers should ACL 2020 style -- [LaTeX style files and Microsoft Word templates](http://acl2020.org/downloads/acl2020-templates.zip) and an [Overleaf template](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) are provided by ACL 2020.
 
-* Submission website: [tba]()
+Papers should be submitted electronically through the START conference management system (to be opened in due course).
+
 
 ### Organisers:
 

@@ -7,6 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/bc.png
+  overlay_image: /assets/images/dublinbridge.jpg
 ---
 
 This is the preliminary workshop programme:

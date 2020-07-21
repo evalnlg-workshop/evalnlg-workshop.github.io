@@ -6,7 +6,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/bc.png
+  overlay_image: /assets/images/dublinbridge.jpg
 ---
 
 The 1st Workshop on Evaluating NLG Evaluation is a workshop at the 13th International Conference on Natural Language Generation ([INLG 2020](https://www.inlg2020.org/)). INLG 2020 will be held online, virtually from Dublin City University, DCU, in Dublin Ireland, 15-18 December, 2020. 
