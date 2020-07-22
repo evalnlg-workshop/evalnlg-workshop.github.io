@@ -9,13 +9,4 @@ header:
   overlay_image: /assets/images/dublinbridge.jpg
 ---
 
-For questions and comments regarding the workshop contact [one of the organisers]({{site.baseurl}}/organisation/#organisers), e.g,
-
-* Shubham Agarwal [<sa201@hw.ac.uk>](mailto:sa201@hw.ac.uk)
-* Ondrej Dusek []()
-* Sebastian Gehrmann []()
-* Dimitra Gkatzia []()
-* Ioannis Konstas []()
-* Emiel van Miltenburg []()
-* Sashank Santhanam []()
-* Samira Shaikh []()
+For questions and comments regarding the workshop please contact [the organizers](/organisation) at {{ 'mailto:address@example.org' | encode_email }}. 
