@@ -61,7 +61,7 @@ Datasets for this year’s edition are existing datasets with system outputs and
 
 The workshop follows [INLG 2020 submission instructions](https://www.inlg2020.org/papers), i.e. all submissions should follow [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines)
 and policies for submission, review and citation, and be anonymised for double blind reviewing.
-The papers should ACL 2020 style -- [LaTeX style files and Microsoft Word templates](http://acl2020.org/downloads/acl2020-templates.zip) and an [Overleaf template](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) are provided by ACL 2020.
+The papers should follow ACL 2020 style -- [LaTeX style files and Microsoft Word templates](http://acl2020.org/downloads/acl2020-templates.zip) and an [Overleaf template](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) are provided by ACL 2020.
 
 Papers should be submitted electronically through the START conference management system (to be opened in due course).
 
