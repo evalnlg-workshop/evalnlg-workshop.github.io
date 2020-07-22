@@ -15,10 +15,11 @@ function init(){
     var x = document.getElementsByClassName('contactaddr');
     for (var i = 0; i < x.length; i++){
         var sp = x[i];
-        sp.innerHTML.replace(/<span.*\/span>/, '@');
-        sp.innerHTML = '<a href="mailto:"' + sp.innerHTML + '">' + sp.innerHTML + '</a>';
+        var mt = sp.innerHTML;
+        mt = mt.replace(/<span.*\/span>/, '@');
+        sp.innerHTML = '<a href="mailto:"' + mt + '">' + mt + '</a>';
     }
 }
-document.body.addEventListener("load", init, false);
+window.addEventListener("load", init, false);
 </script>
 For questions and comments regarding the workshop please contact [the organizers](/organisation) at <span class="contactaddr">evalnlg.inlg<span class="athere"></span>gmail.com</span>. 
