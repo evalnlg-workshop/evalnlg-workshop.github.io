@@ -17,7 +17,7 @@ function init(){
         var sp = x[i];
         var mt = sp.innerHTML;
         mt = mt.replace(/<span.*\/span>/, '@');
-        sp.innerHTML = '<a href="mailto:"' + mt + '">' + mt + '</a>';
+        sp.innerHTML = '<a href="mailto:' + mt + '">' + mt + '</a>';
     }
 }
 window.addEventListener("load", init, false);
