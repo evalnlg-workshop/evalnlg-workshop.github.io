@@ -9,4 +9,16 @@ header:
   overlay_image: /assets/images/dublinbridge.jpg
 ---
 
-For questions and comments regarding the workshop please contact [the organizers](/organisation) at <style>.emailhere:before {content: '@'; }</style>evalnlg.inlg<span class="emailhere">gmail</span>.com. 
+<style>.athere:before {content: '@'; }</style>
+<script type="text/javascript">
+function init(){
+    var x = document.getElementsByClassName('contactaddr');
+    for (var i = 0; i < x.length; i++){
+        var sp = x[i];
+        sp.innerHTML.replace(/<span.*\/span>/, '@');
+        sp.innerHTML = '<a href="mailto:"' + sp.innerHTML + '">' + sp.innerHTML + '</a>';
+    }
+}
+body.addEventListener("load", init, false);
+</script>
+For questions and comments regarding the workshop please contact [the organizers](/organisation) at <span class="contactaddr">evalnlg.inlg<span class="athere"></span>gmail.com</span>. 
