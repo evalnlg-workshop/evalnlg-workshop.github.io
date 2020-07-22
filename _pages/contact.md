@@ -19,6 +19,6 @@ function init(){
         sp.innerHTML = '<a href="mailto:"' + sp.innerHTML + '">' + sp.innerHTML + '</a>';
     }
 }
-body.addEventListener("load", init, false);
+document.body.addEventListener("load", init, false);
 </script>
 For questions and comments regarding the workshop please contact [the organizers](/organisation) at <span class="contactaddr">evalnlg.inlg<span class="athere"></span>gmail.com</span>. 
