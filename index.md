@@ -19,11 +19,12 @@ This workshop is intended as a **discussion platform on the status and the futur
 
 ### Important Dates:
 
-* Call for papers released: July 20, 2020
-* Submission deadline: September 20, 2020
-* Notification of acceptance: October 20, 2020
+* First Call for papers released: July 20, 2020
+* Second Call for papers released: September 16, 2020
+* Submission deadline: October 15, 2020
+* Notification of acceptance: November 15, 2020
 * [INLG 2020 registration](https://www.inlg2020.org/registration): TBA
-* Camera ready papers due: November 20, 2020
+* Camera ready papers due: November 29, 2020
 * Workshop: December 18, 2020 (adjacent to INLG)
 
 ### Papers:
