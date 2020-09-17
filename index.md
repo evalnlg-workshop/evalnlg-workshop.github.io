@@ -40,7 +40,7 @@ We encourage a range of papers ranging from commentary and meta-evaluation of ex
 * Evaluation surveys
 * Opinion pieces and commentary on trends in evaluation
 
-We encourage the submission of “task proposals”, where authors can propose shared tasks for next year’s edition of the workshop.
+Task proposals that were submitted for the Generation Challenges at INLG 2020, may also be submitted to this workshop. If accepted for the main conference, they may still be presented at the workshop as non-archival papers. We also encourage the submission of more preliminary work, discussing the main challenges in setting up a shared task in the NLG domain.
 
 ### Unshared Task:
 
