@@ -64,7 +64,7 @@ The workshop follows [INLG 2020 submission instructions](https://www.inlg2020.or
 and policies for submission, review and citation, and be anonymised for double blind reviewing.
 The papers should follow ACL 2020 style -- [LaTeX style files and Microsoft Word templates](http://acl2020.org/downloads/acl2020-templates.zip) and an [Overleaf template](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) are provided by ACL 2020.
 
-Papers should be submitted electronically through the EasyChair conference management system (link announced soon). %(https://easychair.org/conferences/?conf=evalnlgeval2020).
+Papers should be submitted electronically through the EasyChair conference management system (link announced soon).
 
 
 ### Organisers:
