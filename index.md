@@ -23,7 +23,7 @@ This workshop is intended as a **discussion platform on the status and the futur
 * Second Call for papers released: September 16, 2020
 * Submission deadline: October 15, 2020
 * Notification of acceptance: November 15, 2020
-* [INLG 2020 registration](https://www.inlg2020.org/registration): TBA
+* [INLG 2020 registration](https://www.inlg2020.org/registration) -- workshop-only €50    
 * Camera ready papers due: November 29, 2020
 * Workshop: December 18, 2020 (adjacent to INLG)
 
@@ -64,7 +64,7 @@ The workshop follows [INLG 2020 submission instructions](https://www.inlg2020.or
 and policies for submission, review and citation, and be anonymised for double blind reviewing.
 The papers should follow ACL 2020 style -- [LaTeX style files and Microsoft Word templates](http://acl2020.org/downloads/acl2020-templates.zip) and an [Overleaf template](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd) are provided by ACL 2020.
 
-Papers should be submitted electronically through the START conference management system (to be opened in due course).
+Papers should be submitted electronically through the [EasyChair conference management system](https://easychair.org/conferences/?conf=evalnlgeval2020).
 
 
 ### Organisers:
