@@ -21,7 +21,7 @@ This workshop is intended as a **discussion platform on the status and the futur
 
 * First Call for papers released: July 20, 2020
 * Second Call for papers released: September 16, 2020
-* Submission deadline: October 15, 2020 (UTC-12) -- [Submission is open](https://easychair.org/conferences/?conf=evalnlgeval2020)
+* Submission deadline: **Extended to October 19**, 2020 (UTC-12) -- [Submission is open](https://easychair.org/conferences/?conf=evalnlgeval2020)
 * Notification of acceptance: November 15, 2020
 * [INLG 2020 registration](https://www.inlg2020.org/registration) -- the workshop is included in main conference registration, workshop-only registration: €50. 
 * Camera ready papers due: November 29, 2020
