@@ -1,9 +1,11 @@
 main:
-  - title: "Preliminary Programme"
+  - title: "Programme"
     url: /programme/
   - title: "Organisation"
     url: /organisation/
   - title: "Contact"
     url: /contact/
+  - title: "Accepted Papers"
+    url: /accepted-papers/
   - title: "INLG 2020"
     url: https://www.inlg2020.org/

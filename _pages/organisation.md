@@ -22,3 +22,19 @@ The 1st Workshop on Evaluating NLG Evaluation is a workshop at the 13th Internat
 * [Emiel van Miltenburg](https://emielvanmiltenburg.nl/) (Tilburg University)
 * [Sashank Santhanam](https://sashank06.github.io) (University of North Carolina at Charlotte)
 * [Samira Shaikh](https://webpages.uncc.edu/sshaikh2/) (University of North Carolina at Charlotte)
+
+
+## Program Committee
+
+* Jose M. Alonso, University of Santiago de Compostela
+* Miruna A. Clinciu, Heriot-Watt University
+* Thiago Castro Ferreira, University of São Paulo
+* Behnam Hedayatnia, Amazon
+* David M. Howcroft, Heriot-Watt University
+* Chris van der Lee, Tilburg University
+* Saad Mahamood, trivago N.V.
+* Simon Mille, Universitat Pompeu Fabra
+* Ehud Reiter, University of Aberdeen
+* Thibault Sellam, Google
+* Simeng Sun, University of Massachusetts Amherst
+* Alex Wang, New York University
