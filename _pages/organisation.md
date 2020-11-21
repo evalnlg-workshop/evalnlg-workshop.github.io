@@ -1,5 +1,5 @@
 ---
-title: "Organisation"
+title: "Committees"
 permalink: /organisation/
 layout: single
 classes: wide

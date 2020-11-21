@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Workshop at INLG 2020<br /> Online from Dublin, Ireland, 18 December 2020"
+excerpt: "Workshop on Evaluating NLG Evaluation at INLG 2020<br /> Online from Dublin, Ireland, 18 December 2020"
 layout: single
 classes: wide
 header:
