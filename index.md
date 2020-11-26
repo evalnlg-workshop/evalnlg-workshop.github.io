@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/dublinbridge.jpg
 ---
 
-**Announcement**: INLG 2020 and its workshops are organized virtually due to the COVID-19 pandemic. More information soon.
+**News**: The [list of accepted papers](accepted-papers/) and a [preliminary programme](programme/) of the workshop are now available.
 {: .notice--danger}
 
 ### Workshop overview:
