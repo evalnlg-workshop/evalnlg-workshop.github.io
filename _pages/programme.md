@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/dublinbridge.jpg
 ---
 
-This is the preliminary workshop programme (the timezone is GMT, synchronized with the [INLG 2020 programme](https://www.inlg2020.org/programme)):
+This is the preliminary workshop programme. The timezone is GMT, synchronized with the [INLG 2020 programme](https://www.inlg2020.org/programme).
 
 | Time        | Event                                |
 | ----------- | -------------------------------------|
