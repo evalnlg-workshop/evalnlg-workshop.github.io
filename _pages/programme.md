@@ -12,7 +12,7 @@ header:
 
 This is the preliminary workshop programme (the timezone is GMT, synchronized with the [INLG 2020 programme](https://www.inlg2020.org/programme)):
 
-| Time          | Topic                                |
+| Time          | Event                                |
 | ------------- | -------------------------------------|
 | 11:00 - 11:15 | **Opening**                          |
 | 11:15 - 12:15 | **Plenary Keynote**<br>by [Marina Fomicheva](https://www.sheffield.ac.uk/dcs/people/research-staff/marina-fomicheva), University of Sheffield  |
