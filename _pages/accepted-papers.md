@@ -13,23 +13,23 @@ header:
 
 * [Evaluating AMR-to-English NLG Evaluation](../papers/EvalNLGEval_2020_paper_1.pdf)
 <br />
-Emma Manning, Shira Wein and Nathan Schneider
+Emma Manning, Shira Wein and Nathan Schneider [(full paper link)](https://www.aclweb.org/anthology/2020.coling-main.420/)
 
 * [Informative Manual Evaluation of Machine Translation Output](../papers/EvalNLGEval_2020_paper_3.pdf)
 <br />
-Maja Popovic
+Maja Popović [(full paper link)](https://www.aclweb.org/anthology/2020.coling-main.444/)
 
 * [Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing](../papers/EvalNLGEval_2020_paper_4.pdf)
 <br />
-Brian Thompson and Matt Post
+Brian Thompson and Matt Post [(full paper link)](https://www.aclweb.org/anthology/2020.emnlp-main.8/)
 
 * [Evaluating Semantic Accuracy of Data-to-Text Generation with Natural Language Inference](../papers/EvalNLGEval_2020_paper_9.pdf)
 <br />
-Ondrej Dusek and Zdenek Kasner
+Ondřej Dušek and Zdeněk Kasner [(full paper link)](https://www.aclweb.org/anthology/2020.inlg-1.19/)
 
 * [Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents](../papers/EvalNLGEval_2020_paper_12.pdf)
 <br />
-Sashank Santhanam and Samira Shaikh
+Sashank Santhanam and Samira Shaikh [(full paper link)](https://dl.acm.org/doi/10.1145/3313831.3376318)
 
 
 ## Archival
