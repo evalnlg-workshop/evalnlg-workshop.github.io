@@ -29,7 +29,7 @@ Ondřej Dušek and Zdeněk Kasner [(full paper link)](https://www.aclweb.org/ant
 
 * [Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents](../papers/EvalNLGEval_2020_paper_12.pdf)
 <br />
-Sashank Santhanam and Samira Shaikh [(full paper link)](https://dl.acm.org/doi/10.1145/3313831.3376318)
+Sashank Santhanam and Samira Shaikh [(full paper link)](https://arxiv.org/abs/2002.07927)
 
 
 ## Archival
