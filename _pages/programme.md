@@ -15,7 +15,7 @@ This is the preliminary workshop programme. The timezone is GMT, synchronized wi
 | Time        | Event                                |
 | ----------- | -------------------------------------|
 | 11:00–11:15 | **Opening**                          |
-| 11:15–12:15 | **Plenary Keynote**<br>by [Marina Fomicheva](https://www.sheffield.ac.uk/dcs/people/research-staff/marina-fomicheva), University of Sheffield  |
+| 11:15–12:15 | **Plenary Keynote:** Think Inside the Box: Glass-box Evaluation Methods for Neural MT<br>by [Marina Fomicheva](https://www.sheffield.ac.uk/dcs/people/research-staff/marina-fomicheva), University of Sheffield<br><em>Most of the current SOTA approaches to automatic NLG evaluation treat the system under evaluation as a black box. In this talk I will present an alternative approach that looks inside the system to gain insights on the quality of generated outputs, using neural MT as an example. I will show how this idea can be applied to both reference-based and reference-free evaluation of MT outputs. As a side note, I will highlight some meta-evaluation aspects that affect the performance of automatic evaluation methods, but often go unnoticed in the large-scale evaluation campaigns.</em>  |
 | 12:15–12:50 | *Break*                              | 
 | 12:50–13:20 | **Elevator pitches** for all papers  |
 | 13:20–13:50 | **Poster session 1**<br>- [Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing](../papers/EvalNLGEval_2020_paper_4.pdf)<br>- [Studying the Effects of Cognitive Biases in Evaluation of Conversational Agents](../papers/EvalNLGEval_2020_paper_12.pdf) |
