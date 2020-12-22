@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/dublinbridge.jpg
 ---
 
-**News**: The [list of accepted papers](accepted-papers/) and a [preliminary programme](programme/) of the workshop are now available.
+**News**:  The workshop is now over, but you can have a look at all [presented papers](accepted-papers/), as well as a [video recoding](https://vimeo.com/493799577) and [slides](papers/EvalNLGEval_2020_keynote_slides.pdf) from Marina Fomicheva's keynote.
 {: .notice--danger}
 
 ### Workshop overview:
